@@ -1,0 +1,9 @@
+html, body {
+    color: #fff;
+    background-color: #663299;
+    margin: 20px;
+}
+
+* {
+    font-family: 'Arvo', monospace;
+}
